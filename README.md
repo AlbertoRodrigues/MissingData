@@ -4,7 +4,7 @@ Este projeto é referente a cursos e experiências minhas em como lidar com dado
 
 O projeto está dividido em 4 partes:
 
-### 1. O problema de ter dados faltantes, como detectar e substituir
+### 1. [O problema de ter dados faltantes, como detectar e substituir](https://github.com/AlbertoRodrigues/dealing_missing_data_in_python/tree/main/1.problema_dados_faltantes)
 
 ### 2. Métodos de imputação simples 
 
