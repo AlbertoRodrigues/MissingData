@@ -1,6 +1,6 @@
 # Dealing missing data in python
 
-Este projeto é referente a cursos e experiências minhas em como lidar com dados faltantes na prática usando python.
+Este projeto é referente a cursos e minhas experiências em como lidar com dados faltantes na prática usando python.
 
 O projeto está dividido em 4 partes:
 
