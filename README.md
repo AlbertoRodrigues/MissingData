@@ -6,9 +6,9 @@ O projeto está dividido em 4 partes:
 
 ### 1. [O problema de ter dados faltantes, como detectar e substituir](https://github.com/AlbertoRodrigues/dealing_missing_data_in_python/tree/main/1.problema_dados_faltantes)
 
-### 2. Métodos de imputação simples 
+### 2. [Tipos de dados faltantes](https://github.com/AlbertoRodrigues/dealing_missing_data_in_python/tree/main/2.tipos_dados_faltantes_e_imputacao_simples)
 
-### 3. Métodos de imputação de dados faltantes para dados de series temporais
+### 3. [Métodos de imputação simples e para dados de series temporais](https://github.com/AlbertoRodrigues/dealing_missing_data_in_python/tree/main/3.imputacoes_simples_e_series_temporais)
 
 ### 4. Métodos de imputação de dados faltantes mais avançados
 
