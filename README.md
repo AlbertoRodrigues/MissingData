@@ -10,7 +10,7 @@ O projeto está dividido em 4 partes:
 
 ### 3. [Métodos de imputação simples e para dados de series temporais](https://github.com/AlbertoRodrigues/dealing_missing_data_in_python/tree/main/3.imputacoes_simples_e_series_temporais)
 
-### 4. Métodos de imputação de dados faltantes mais avançados
+### 4. [Métodos de imputação de dados faltantes mais avançados](https://github.com/AlbertoRodrigues/dealing_missing_data_in_python/tree/main/4.pacote_fancy_impute)
 
 
 ## Referências 
